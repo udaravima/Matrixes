@@ -9,22 +9,22 @@ Calculation with Matrixes
 * Inverse
 
 ## How To:
-* import class
+* import the class
 ```
 from .Matrix import Matrix
 ```
-* create matrix
+* create a matrix
 ```
 matrix = [
   [a , b],
   [c , d]
 ]
 ```
-* create the object
+* create a object
 ```
 obj1 = Matrix(matrix)
 ```
-* Tinker with built in funtions
+* Tinker with the obkect and built in funtions
 ```
 obj1.multiply(2)
 obj1.multiply(obj2)
